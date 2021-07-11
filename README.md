@@ -1,7 +1,7 @@
 # HackingWithSwift-Project05
 <b>Word Scramble</b>
 
-<p>Swift + SwiftUI Features Explored:<p>
+<p>Swift + UIKit Features Explored:<p>
 <ul>
   <li>Reloading table views efficiently</li>
   <li>Inserting rows dynamically</li>
